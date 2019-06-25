@@ -35,6 +35,10 @@ border-top: none;
 
   margin: 20px auto;
 }
+.hovered{
+  text-decoration: underline;
+  font-size: 2rem;
+}
 
 
 .title{
@@ -113,6 +117,7 @@ border-top: none;
 .links{
   color: #2A5DB0;
   font-size: 1.5rem;
+  display: none;
 }
 .number-gif{
   width: 25%;
